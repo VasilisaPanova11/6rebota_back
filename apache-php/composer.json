@@ -1,0 +1,9 @@
+{
+    "config": {
+        "vendor-dir": "/var/www/vendor/"
+    },
+    "require": {
+        "fakerphp/faker": "^1.21", 
+        "szymach/c-pchart": "^3.0"
+    }
+}
